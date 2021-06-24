@@ -7,6 +7,6 @@
 ساخت وبلاگ 
 </a>
 <br>
-<a href="google.com">
+<a href="https://www.google.com/">
 خروج 
 </a>
