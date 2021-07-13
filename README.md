@@ -1,12 +1,1 @@
-
-<a href="#">
-وارد به سیستم 
-</a>
-<br>
-<a href="#">
-ساخت وبلاگ 
-</a>
-<br>
-<a href="https://www.google.com/">
-خروج 
-</a>
+<h4 style="background-color:#228B22; color:#FFFFFF; ">آخرین بروزرسانی چند سانیه پیش </h4>
